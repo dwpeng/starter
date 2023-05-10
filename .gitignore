@@ -1,0 +1,13 @@
+.ruff_cache
+.venv
+__py_cache__
+build/
+dist/
+eggs/
+.eggs/
+parts/
+sdist/
+*.egg-info/
+.installed.cfg
+*.log
+target/

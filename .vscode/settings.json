@@ -1,0 +1,16 @@
+{
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll": true,
+            "source.organizeImports": true
+        },
+    },
+    "python.analysis.typeCheckingMode": "strict",
+    "python.analysis.autoFormatStrings": true,
+    "python.analysis.fixAll": [
+        "source.unusedImports",
+        "source.convertImportFormat",
+    ],
+    "ruff.organizeImports": false
+}
